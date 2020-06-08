@@ -11,3 +11,4 @@ Welcome to Revature!
 | Rachel Kennedy| kennedy8932@gmail.com | rkennedy98 |
 | Tanja Vidic | vidict44@gmail.com | vidict44 |
 | Reba Pipes | pipes.reba@gmail.com | rebapipes |
+| Rachel Riedel | rchlriedel27@gmail.com | RchlRiedel |
