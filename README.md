@@ -2,7 +2,8 @@
 
 Welcome to Revature!
 
-| Name              | email                    | github Username |
-| ----------------- | ------------------------ | --------------- |
-| Alec Batson       | alec.batson@revature.com | Abatson         |
-| Cha'Diamond Moody | chadiamondm@gmail.com    | CMoody          |
+| Name | email | github Username |
+| Alec Batson | alec.batson@revature.com | Abatson |
+| Lauren Pappas | LPappas@gmail.com | LNPappas |
+| Cecilia Pichardo | cecmaria23@gmail.com | ceciliapichardo |
+| Jaboa Howell | Jaboahowell@gmail.com | Howell37 |
