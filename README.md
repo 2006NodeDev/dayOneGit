@@ -6,7 +6,7 @@ Welcome to Revature!
 | Name | email | github Username |
 | ---- | ----- | --------------- |
 | Alec Batson| alec.batson@revature.com | Abatson |
-| Reba Pipes| pipes.reba@gmail.com | Rpipes |
+| Reba Pipes| pipes.reba@gmail.com | rebapipes |
 =======
 | Name          | email                    | github Username |
 | ------------- | ------------------------ | --------------- |
