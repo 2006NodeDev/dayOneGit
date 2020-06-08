@@ -2,6 +2,5 @@
 
 Welcome to Revature!
 
-This is to demonstrate pulling
-
-Aren't merge conflicts cool
+Name | email | github Username
+Alec Batson| alec.batson | Abatson
