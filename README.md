@@ -14,12 +14,16 @@ Welcome to Revature!
 | Alec Batson| alec.batson@revature.com | Abatson |
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 03d80f8a11860b2ddb940ee12e5a762d18cd9286
 =======
 | Lauren Pappas | LPappas@gmail.com | LNPappas |
 >>>>>>> 5ba7b650b3bf0a695f7959057c9e704a02639243
 =======
 | Reba Pipes| pipes.reba@gmail.com | Rpipes |
+=======
+| Reba Pipes| pipes.reba@gmail.com | rebapipes |
+>>>>>>> 3d419f0d38e6f7b770a0526655154b328c411fd7
 =======
 | Name          | email                    | github Username |
 | ------------- | ------------------------ | --------------- |
