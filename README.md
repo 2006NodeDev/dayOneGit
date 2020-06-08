@@ -23,3 +23,4 @@ Welcome to Revature!
 | Jodi Sanderson        | jodi.a.sands@gmail.com     | jodiasanderson  |
 | Cha'Diamond Moody     | chadiamondm@gmail.com      | chadiamondm     |
 | Qianwen Hu            | qianwen.hu.nq@gmail.com    | qianwenhu1      |
+| Christina Bradley     | ChristinaBradley@live.com  | cbradley3351    |
