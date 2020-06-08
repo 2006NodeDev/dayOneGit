@@ -20,3 +20,4 @@ Welcome to Revature!
 | China Moxey | moxeychina@gmail.com | ChinaMoxey |
 | Tanique Adams | bbstarnique@gmail.com | NeurogrammerT |
 | Taylor Holman | taylorholman97@gmail.com | tayholman9 |
+| Jodi Sanderson | jodi.a.sands@gmail.com | jodiasanderson |
