@@ -25,8 +25,7 @@ Welcome to Revature!
 | ------------- | ------------------------ | --------------- |
 | Alec Batson   | alec.batson@revature.com | Abatson         |
 | Lauren Pappas | LPappas@gmail.com        | LNPappas        |
-
-|
+| Cecilia Pichardo | cecmaria23@gmail.com | ceciliapichardo |
 | Jaboa Howell | Jaboahowell@gmail.com | Howell37 |
 >>>>>>> bc416ea9078a914176ef929d3d764e3d1c677ecd
 >>>>>>> 56c639fc38cfd901e794f006d1e8b1097ad9e65c
