@@ -19,3 +19,4 @@ Welcome to Revature!
 | Chrish Panditharathne | chrischalehiruni@gmail.com | Chrischale |
 | China Moxey | moxeychina@gmail.com | ChinaMoxey |
 | Tanique Adams | bbstarnique@gmail.com | NeurogrammerT |
+| Taylor Holman | taylorholman97@gmail.com | tayholman9 |
