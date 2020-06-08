@@ -10,3 +10,4 @@ Welcome to Revature!
 | Jaboa Howell | Jaboahowell@gmail.com | Howell37 |
 | Rachel Kennedy| kennedy8932@gmail.com | rkennedy98 |
 | Tanja Vidic | vidict44@gmail.com | vidict44 |
+| Reba Pipes | pipes.reba@gmail.com | rebapipes |
