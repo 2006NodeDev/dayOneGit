@@ -1,1 +1,3 @@
 # dayOneGit
+
+Welcome to Revature!
