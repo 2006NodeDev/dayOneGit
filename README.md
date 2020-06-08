@@ -16,3 +16,4 @@ Welcome to Revature!
 | Sakina| sakina9530@gmail.com | SakinaH9530 |
 | Arlette Inserto | insertoarlette@gmail.com | sainserto |
 | Amanda Blanton | a.m.blanton@gmail.com | ABlanton 3 |
+| Chrish Panditharathne | chrischalehiruni@gmail.com | Chrischale |
