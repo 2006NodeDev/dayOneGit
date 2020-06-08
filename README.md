@@ -12,3 +12,5 @@ Welcome to Revature!
 =======
 | Alec Batson| alec.batson@revature.com | Abatson |
 >>>>>>> 03d80f8a11860b2ddb940ee12e5a762d18cd9286
+| ---- | ----- | --------------- |
+| Cecilia Pichardo | cecmaria23@gmail.com | ceciliapichardo |
