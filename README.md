@@ -7,3 +7,4 @@ Welcome to Revature!
 | Lauren Pappas | LPappas@gmail.com | LNPappas |
 | Cecilia Pichardo | cecmaria23@gmail.com | ceciliapichardo |
 | Jaboa Howell | Jaboahowell@gmail.com | Howell37 |
+| Rachel Kennedy| kennedy8932@gmail.com | rkennedy98 |
