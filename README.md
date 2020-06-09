@@ -25,3 +25,4 @@ Welcome to Revature!
 | Qianwen Hu            | qianwen.hu.nq@gmail.com    | qianwenhu1      |
 | Christina Bradley     | ChristinaBradley@live.com  | cbradley3351    |
 | Fanos Worku           | faniworku@gmail.com        | faniworku       |
+| Firdevs Yildirim      | firdevssyildirimm@gmail.com| Bfirdevs        |
